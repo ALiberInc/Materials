@@ -1,2 +1,6 @@
 # Materials
-会社のメールとか、各種資料はここに格納
+各種手順はここに格納
+
+詳細は[本リポジトリーのWiki](https://github.com/ALiberInc/Materials/wiki)を参照してください。
+
+
